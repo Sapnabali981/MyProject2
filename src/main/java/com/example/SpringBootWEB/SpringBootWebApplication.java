@@ -8,7 +8,7 @@ public class SpringBootWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebApplication.class, args);
-		System.out.println("Hello world.");
+		System.out.println("Hello world. in main");
 <<<<<<< HEAD
 		System.out.println("done changes in main branch");
 =======
