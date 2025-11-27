@@ -9,7 +9,11 @@ public class SpringBootWebApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWebApplication.class, args);
 		System.out.println("Hello world.");
+<<<<<<< HEAD
 		System.out.println("done changes in main branch");
+=======
+		System.out.println("done changes in dev code..");
+>>>>>>> dev
 	}
 
 }
